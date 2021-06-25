@@ -30,7 +30,7 @@
             "unqualified": "4 échéances sans frais, pour les achats de {formattedMinAmount} à {formattedMaxAmount}. ",
             "qualified": "{formattedTransactionAmount} divisé en 4 échéances sans frais de {formattedPeriodicPayment}. "
         },
-
+        "x": "y",
         "instructions": {
             "title": ["Payez avec", "PayPal", "et choisissez le", "Paiement en 4X."],
             "items": [

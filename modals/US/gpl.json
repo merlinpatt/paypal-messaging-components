@@ -32,6 +32,7 @@
             "unqualified": "4 interest-free payments every 2 weeks, starting today, with no impact to your credit score. Available on purchases from {formattedMinAmount}-{formattedMaxAmount}.",
             "qualified": "{formattedTransactionAmount} divided into 4 interest-free payments of {formattedPeriodicPayment} every 2 weeks, with no impact to your credit score. Down payment due today."
         },
+        "x": "y",
 
         "instructions": {
             "title": ["Check out securely with", "PayPal", "and choose", "Pay Later"],

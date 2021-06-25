@@ -34,6 +34,7 @@
         "instructions": {
             "title": ["Check out with", "PayPal", "and choose", "Pay in 4"]
         },
+        "x": "y",
         "terms": [
             "PayPal Pay in 4 is available for eligible purchases of {formattedMinAmount}-{formattedMaxAmount}.",
             "Offer availability may depend on the merchant.",
